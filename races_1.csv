@@ -242,3 +242,51 @@ raceId,year,round,circuitId,name,date
 1118,2023,20,18,São Paulo Grand Prix,05-11-2023
 1119,2023,21,80,Las Vegas Grand Prix,19-11-2023
 1120,2023,22,24,Abu Dhabi Grand Prix,26-11-2023
+1121,2024,1,bahrain,Bahrain Grand Prix,2024-03-02
+1122,2024,2,jeddah,Saudi Arabian Grand Prix,2024-03-09
+1123,2024,3,albert_park,Australian Grand Prix,2024-03-24
+1124,2024,4,suzuka,Japanese Grand Prix,2024-04-07
+1125,2024,5,shanghai,Chinese Grand Prix,2024-04-21
+1126,2024,6,miami,Miami Grand Prix,2024-05-05
+1127,2024,7,imola,Emilia Romagna Grand Prix,2024-05-19
+1128,2024,8,monaco,Monaco Grand Prix,2024-05-26
+1129,2024,9,villeneuve,Canadian Grand Prix,2024-06-09
+1130,2024,10,catalunya,Spanish Grand Prix,2024-06-23
+1131,2024,11,red_bull_ring,Austrian Grand Prix,2024-06-30
+1132,2024,12,silverstone,British Grand Prix,2024-07-07
+1133,2024,13,hungaroring,Hungarian Grand Prix,2024-07-21
+1134,2024,14,spa,Belgian Grand Prix,2024-07-28
+1135,2024,15,zandvoort,Dutch Grand Prix,2024-08-25
+1136,2024,16,monza,Italian Grand Prix,2024-09-01
+1137,2024,17,baku,Azerbaijan Grand Prix,2024-09-15
+1138,2024,18,marina_bay,Singapore Grand Prix,2024-09-22
+1139,2024,19,americas,United States Grand Prix,2024-10-20
+1140,2024,20,rodriguez,Mexico City Grand Prix,2024-10-27
+1141,2024,21,interlagos,São Paulo Grand Prix,2024-11-03
+1142,2024,22,vegas,Las Vegas Grand Prix,2024-11-23
+1143,2024,23,losail,Qatar Grand Prix,2024-12-01
+1144,2024,24,yas_marina,Abu Dhabi Grand Prix,2024-12-08
+1145,2025,1,albert_park,Australian Grand Prix,2025-03-16
+1146,2025,2,shanghai,Chinese Grand Prix,2025-03-23
+1147,2025,3,suzuka,Japanese Grand Prix,2025-04-06
+1148,2025,4,bahrain,Bahrain Grand Prix,2025-04-13
+1149,2025,5,jeddah,Saudi Arabian Grand Prix,2025-04-20
+1150,2025,6,miami,Miami Grand Prix,2025-05-04
+1151,2025,7,imola,Emilia Romagna Grand Prix,2025-05-18
+1152,2025,8,monaco,Monaco Grand Prix,2025-05-25
+1153,2025,9,catalunya,Spanish Grand Prix,2025-06-01
+1154,2025,10,villeneuve,Canadian Grand Prix,2025-06-15
+1155,2025,11,red_bull_ring,Austrian Grand Prix,2025-06-29
+1156,2025,12,silverstone,British Grand Prix,2025-07-06
+1157,2025,13,spa,Belgian Grand Prix,2025-07-27
+1158,2025,14,hungaroring,Hungarian Grand Prix,2025-08-03
+1159,2025,15,zandvoort,Dutch Grand Prix,2025-08-31
+1160,2025,16,monza,Italian Grand Prix,2025-09-07
+1161,2025,17,baku,Azerbaijan Grand Prix,2025-09-21
+1162,2025,18,marina_bay,Singapore Grand Prix,2025-10-05
+1163,2025,19,americas,United States Grand Prix,2025-10-19
+1164,2025,20,rodriguez,Mexico City Grand Prix,2025-10-26
+1165,2025,21,interlagos,São Paulo Grand Prix,2025-11-09
+1166,2025,22,vegas,Las Vegas Grand Prix,2025-11-23
+1167,2025,23,losail,Qatar Grand Prix,2025-11-30
+1168,2025,24,yas_marina,Abu Dhabi Grand Prix,2025-12-07
