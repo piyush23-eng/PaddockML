@@ -1,8 +1,8 @@
-streamlit==1.38.0
-pandas==2.2.2
-numpy==1.26.4
-scipy==1.13.1
-scikit-learn==1.5.2
-matplotlib==3.9.2
-pillow==10.4.0
-plotly==5.24.1
+# Version ranges keep the hosted build compatible with Streamlit Community
+# Cloud's current Python runtime while retaining the app's tested API surface.
+streamlit>=1.50,<2
+pandas>=2.3,<3
+numpy>=2.2,<3
+scikit-learn>=1.6,<2
+pillow>=11.3,<13
+plotly>=6,<7
